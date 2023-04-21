@@ -49,6 +49,7 @@
 
         cd ATON_Thread
         c++ thread.cpp -std=c++17
+        ./a.out
 
 
 
