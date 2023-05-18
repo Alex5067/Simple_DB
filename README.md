@@ -1,11 +1,5 @@
-# ATON_test
+# In memory simple DB
 ## About
-
-Тестовые задания для стажёра 
-
-## Команда корпоративной шины данных и микосервисов
-##In memory simple DB
-
 Задача реализовать in memory кэш с возможностью быстрого поиска по разным полям.
 Структура данных представлена следующим набором полей: 
 {
@@ -31,25 +25,3 @@
         cd ATON_DB
         javac Main.java
         java Main.java
-
-
-## Команда технологий фонт-офиса
-##Threads
-
-Задача написать программу, в которой 6 тредов: Chandler, Joey, Monica, Phoebe, Rachel и Ross разыгрывают в консоли сценки из ситкома. Каждый печатает свое имя и реплику.
-Сценка дана в тексте такого формата:
-<img align="center" src="screen.png" alt="Screenshot" />
-
-## Launch
-1. Download/Clone this repo
-
-        git clone https://github.com/Alex5067/ATON_test
-        
-2. `cd` into the root directory
-
-        cd ATON_Thread
-        c++ thread.cpp -std=c++17
-        ./a.out
-
-
-
