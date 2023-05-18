@@ -18,7 +18,7 @@
 ## Launch
 1. Download/Clone this repo
 
-        git clone https://github.com/Alex5067/ATON_test
+        git clone https://github.com/Alex5067/Simple-DB
         
 2. `cd` into the root directory
 
